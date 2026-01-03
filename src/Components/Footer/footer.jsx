@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
     return (
-        <footer id="contacto" className="py-12 bg-[#0F172A] border-t border-gray-800 text-center">
+        <footer id="contact" className="py-12 bg-[#0F172A] border-t border-gray-800 text-center">
             <h2 className="text-2xl font-bold text-white mb-4">Contacto:</h2>
             <p className="text-gray-400 mb-6">Déjame un mensaje</p>
 
