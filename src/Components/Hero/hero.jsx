@@ -6,7 +6,7 @@ function Hero() {
         <section className="relative min-h-screen flex flex-col justify-center items-center bg-gradient-to-bl from-[#0F172A] via-[#0F172A] to-[#15294D]  px-6">
             <div className="max-w-4xl text-center">
                 <span className="text-[#38BDF8] font-mono mb-4 block animate-bounce md:text-xl">
-                    Hola, soy...
+                    Me presento, soy...
                 </span>
 
                 <h1 className="text-5xl md:text-7xl font-bold mb-6 text-white">
@@ -14,8 +14,7 @@ function Hero() {
                 </h1>
 
                 <p className="text-gray-400 text-lg md:text-xl max-w-2xl mx-auto mb-10">
-                    Desarrollador FullStack graduado de la Universidad de Lomas de Zamora y estudiante de la UTN. <br />
-                    Me especializo en crear aplicaciones web modernas y responsive.
+                    Desarrollador FullStack graduado de la Universidad de Lomas de Zamora y estudiante de la UTN.
                 </p>
 
                 <div className="flex flex-wrap justify-center gap-4">

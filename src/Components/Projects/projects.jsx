@@ -13,8 +13,8 @@ const Projects = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                     {proyectos.map((proy) => (
                         <div key={proy.id} className="bg-gray-900 border border-gray-800 rounded-2xl overflow-hidden hover:scale-105 transition-transform hover:shadow-[0_0_15px_rgba(255,255,255,0.20)]">
-                            <div className="h-48 bg-gray-800 flex items-center justify-center">
-                                <img src={proy.imagen} alt="Imagen del proyecto" className="object-cover" />
+                            <div className="h-40 bg-gray-800 flex items-center justify-center">
+                                <img src={proy.imagen} alt="Imagen del proyecto" className="w-full h-full object-contain rounded-2xl" />
                             </div>
 
                             <div className="p-6">

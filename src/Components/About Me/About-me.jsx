@@ -11,12 +11,13 @@ const AboutMe = () => {
                 <div className="flex-1">
                     <h2 className="text-3xl font-bold mb-4">Sobre mí</h2>
                     <p className="text-gray-400 leading-relaxed mb-4">
-                        Soy Santino Tassara Franco, desarrollador FullStack graduado de la Universidad de Lomas de Zamora.
-                        Actualmente estoy cursando una diplomatura en Desarrollo Web en la UTN.
+                        Tengo 21 años, vivo actualmente en la Ciudad Autónoma de Buenos Aires, Argentina.
+                        Estoy en busqueda de nuevos desafios como desarrollador y buscando ampliar
+                        mis conocimientos en el mundo del desarrollo.
                     </p>
                     <p className="text-gray-400 leading-relaxed">
-                        Mi enfoque principal es el ecosistema de JavaScript, buscando siempre
-                        escribir código limpio y mantenible.
+                        Me enfoco principalmente en el backend, pero actualmente estoy buscado aprender herramientas
+                        para mejorar mi experiencia como desarrollador fullstack.
                     </p>
                 </div>
             </div>

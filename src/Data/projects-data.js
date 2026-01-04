@@ -11,12 +11,12 @@ const projects = [
     },
     {
         id: 2,
-        titulo: "Ejemplo 2",
-        descripcion: "Ejemplo 2 de proyecto.",
-        tecnologias: ["JavaScript", "CSS Grid", "Fetch API"],
-        linkRepo: "https://github.com/tuusuario/proyecto2",
-        linkDemo: "https://demo.com",
-        imagen: "Weather-preview.png"
+        titulo: "Activa Fitness",
+        descripcion: "Fui parte de un equipo de desarrollo para crear una aplicacion web para gestionar la actividad de un gimnasio.",
+        tecnologias: ["React", "Bootstrap", "TypeScript", "Node.js", "Express", "SQL Server"],
+        linkRepo: "https://github.com/FrancoSeccaspina/proyectoFinal.io",
+        linkDemo: "https://activafitness.com.ar/",
+        imagen: "ActivaFitness-preview.png"
     }
 ];
 
